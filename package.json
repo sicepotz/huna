@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  },
+  "name": "hanafuda",
+  "version": "1.0.0",
+  "description": "Auto TX HanaFuda Retroactive",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semutireng22/hanafuda.git"
+  },
+  "keywords": [
+    "Hanafuda",
+    "tx",
+    "retro",
+    "bot",
+    "asc",
+    "airdrop"
+  ],
+  "author": "Slamet wibowo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Semutireng22/hanafuda/issues"
+  },
+  "homepage": "https://github.com/Semutireng22/hanafuda#readme"
+}
